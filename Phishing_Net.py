@@ -17,7 +17,7 @@ from sklearn import preprocessing
 from sklearn.pipeline import Pipeline
 from sklearn.metrics import roc_curve, auc
 
-# Model Selection and Classification
+# Model selection 
 def pipelines(X_train, X_test, y_train, y_test):
 
     # model pipelines
